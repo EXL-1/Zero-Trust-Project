@@ -13,6 +13,7 @@ The aim of this disesrtation was to identify whether Zero Trust Principles with 
 * Hardening the System: Refinement and Post-Implementation Testing
 * Measuring Success: Evaluation and Documentation
 
+*ReadMe currently a work in progress...*
 
 ![System Architecture Design](https://github.com/EXL-1/Zero-Trust-Project/blob/main/Dissertation%20Executable%20Code/public/System%20Architecture%20Design.jpeg)
 
