@@ -2,7 +2,7 @@
 
 ## Intro
 
-The aim of this disertation was to identify whether Zero Trust Principles with IAM (Identity and Access Management) and MFA (Multi Factor Authentication) could be effective in cloud environments. To prevent the emergence of upcoming threats as companies are increasingly operating with online services. 
+The aim of this disesrtation was to identify whether Zero Trust Principles with IAM (Identity and Access Management) and MFA (Multi Factor Authentication) could be effective in cloud environments using AWS. To prevent the emergence of upcoming threats as companies are increasingly operating with online services. 
 
 ### **Phases:**
 
