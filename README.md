@@ -46,6 +46,8 @@ and monitor every login event in real time.
 
 ## Architecture
 
+![System Architecture Design](Dissertation%20Executable%20Code/public/System%20Architecture%20Design.jpeg)
+
 ```
 +-----------------------------------------------------+
 |                    USER BROWSER                     |
