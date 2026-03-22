@@ -7,7 +7,7 @@
 [![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react)](https://react.dev/)
 [![AWS Amplify](https://img.shields.io/badge/Hosting-AWS%20Amplify-FF9900?logo=amazonaws)](https://aws.amazon.com/amplify/)
 [![AWS Cognito](https://img.shields.io/badge/Auth-AWS%20Cognito-FF9900?logo=amazonaws)](https://aws.amazon.com/cognito/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](#)
 
 ---
 
@@ -202,7 +202,7 @@ zero-trust/
 
 ## License
 
-MIT
+Copyright (c) 2025 Lucas Malik & University of Northampton. All Rights Reserved.
 
 ---
 
