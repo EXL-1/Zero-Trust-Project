@@ -48,30 +48,6 @@ and monitor every login event in real time.
 
 ![System Architecture Design](Dissertation%20Executable%20Code/public/System%20Architecture%20Design.jpeg)
 
-```
-+-----------------------------------------------------+
-|                    USER BROWSER                     |
-+------------------+----------------------------------+
-                   | HTTPS only (Port 443)
-+------------------v----------------------------------+
-|              AWS AMPLIFY (Frontend Host)            |
-|         React SPA — GitHub CI/CD Pipeline           |
-|         Custom Security Headers (customHttp.yml)    |
-+------------------+----------------------------------+
-                   |
-       +-----------+-----------+
-       |           |           |
-+------v--+  +-----v----+  +---v---------+
-|   AWS   |  |   AWS    |  |    AWS      |
-| Cognito |  |   IAM    |  | CloudWatch  |
-|         |  |          |  |             |
-| User    |  | Groups:  |  | Dashboard:  |
-| Pools   |  | Admin    |  | Cognito     |
-| MFA:    |  | Dev      |  | Security    |
-| TOTP    |  | RegUser  |  | Events      |
-+---------+  +----------+  +-------------+
-```
-
 ---
 
 ## How Authentication Works
